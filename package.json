@@ -1,7 +1,6 @@
 {
-  "name": "reactNativeCommonFeatureBoilerplate",
+  "name": "react-native-common-feature-boiler-plate",
   "version": "0.0.1",
-  "private": true,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -32,5 +31,20 @@
   },
   "engines": {
     "node": ">=18"
-  }
+  },
+  "description": "This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karventhan96/framework.git"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "karventhan",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/karventhan96/framework/issues"
+  },
+  "homepage": "https://github.com/karventhan96/framework#readme"
 }
