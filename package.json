@@ -1,19 +1,16 @@
 {
-  "name": "create-react-native-template-boiler",
-  "version": "1.0.2",
-  "description": "",
+  "name": "react-native-custom-template-boiler-plate",
+  "version": "1.0.0",
+  "description": "\"This package contains boiler plate code for codePush,Crashlytics,CICD,Google analytics, etc..\"",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/karventhan96/framework.git"
   },
-  "keywords": [
-    "abc"
-  ],
-  "author": "karventhan",
-  "license": "ISC",
+  "author": "@karventhan.kar",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/karventhan96/framework/issues"
   },
